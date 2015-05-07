@@ -1,3 +1,10 @@
+/**
+ *  LUR-Cache
+ *  @version 1.0.0
+ *  @author switer
+ *  @github https://github.com/switer/simple-lru
+ */
+
 'use strict';
 
 var DEFAULT_LRU_LENGTH = 10
